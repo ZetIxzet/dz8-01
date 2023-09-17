@@ -1,2 +1,2 @@
 switch
-add text
+remove text
